@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Deteksi Daun Padi</string>
+    <string name="text_title">Penyakit daun yang terdeteksi</string>
+    <string name="text_hasil">Hasil</string>
+    <string name="btn_deteksi">Deteksi</string>
+    <string name="btn_carigambar">Cari Gambar</string>
+</resources>
